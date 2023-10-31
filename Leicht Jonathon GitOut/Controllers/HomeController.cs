@@ -13,6 +13,9 @@ namespace Leicht_Jonathon_GitOut.Controllers
 			_logger = logger;
 		}
 
+			
+		
+
 		public IActionResult Index()
 		{
 			return View();
